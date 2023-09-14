@@ -14,8 +14,12 @@ export const ItemContainer = styled.div`
         margin-bottom:20px;
     }
 
+    a.link-repo {
+        color: #9999ff;
+    }
+
     a.remover {
-        color: #FF0000;
+        color: #ff6666;
         margin-top:20px;
     }
 
