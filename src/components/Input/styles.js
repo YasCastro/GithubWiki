@@ -9,16 +9,17 @@ export const InputContainer = styled.div`
     width: 80%;
 
     margin: 20px;
-    
+    max-width:800px;
 
     input {
         background: transparent;
         border: 0;
         width: 90%;
+        max-width:800px;
         height: 62px;
         padding: 0 20px;
         color: #FFFFFF;
-        font-size: 20px
+        font-size: 20px;        
     }
 
 `
